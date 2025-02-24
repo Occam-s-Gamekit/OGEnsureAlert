@@ -17,7 +17,7 @@
 	"Modules": [
 		{
 			"Name": "OGEnsureAlert",
-			"Type": "Runtime",
+			"Type": "EditorNoCommandlet",
 			"LoadingPhase": "Default"
 		}
 	]
