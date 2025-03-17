@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+/// Copyright Occam's Gamekit contributors 2025
 
 #include "OGEnsureAlert.h"
 #include "Framework/Notifications/NotificationManager.h"
